@@ -1,0 +1,66 @@
+div {
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    background-color: lightblue;
+    padding: 8px;
+    margin: auto;
+    border-radius: 16px;
+}
+
+p {
+    color: navy;
+    text-transform: capitalize;
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p:hover {
+    color: hotpink;
+    text-transform: uppercase;
+}
+
+table {
+    margin: auto;
+    margin-top: 16px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+td:hover {
+    background-color: pink;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: grey;
+}
+
+li {
+    color: blue;
+}
+
+.done {
+    color: green;
+}
+
+#flour {
+    color: goldenrod;
+}
